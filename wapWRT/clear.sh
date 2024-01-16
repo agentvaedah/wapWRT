@@ -44,4 +44,3 @@ $ram_status
 "
 
 # Mengirim pesan ke akun Telegram pribadi
-curl -s -X POST "https://api.telegram.org/bot$BOT_TOKEN/sendMessage" -d "chat_id=$CHAT_ID" -d text="GUNAKANALAH INTERNET DENGAN BIJAK DAN TAAT ATURAN 🔥🔥🔥 "
